@@ -1,5 +1,7 @@
 # books
 
+Awesome books read and recommended by Coderbunker members.
+
 ## Javascripts
 
 - Javascript the Good Parts
